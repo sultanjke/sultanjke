@@ -18,11 +18,12 @@
 ![NextJS](https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white&style=flat)
 ![ExpressJS](https://img.shields.io/badge/express.js-%23000000.svg?logo=express&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/python-%2314354c.svg?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354c.svg?logo=python&logoColor=white&style=flat)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
 ![snake gif](https://github.com/sultanjke/sultanjke/blob/output/github-snake-dark.svg)
 
