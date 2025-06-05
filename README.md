@@ -30,6 +30,8 @@
   <img width="12" />
 </div>
 
+![snake gif](https://github.com/sultanjke/sultanjke/blob/output/github-snake-dark.svg)
+
 ###
 
 <div align="left">
