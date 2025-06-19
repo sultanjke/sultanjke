@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">🛠️ Languages and Tools (incomplete):</h2>
+<h2 align="left">🛠️ Tech Stack (incomplete):</h2>
 
 ###
 
