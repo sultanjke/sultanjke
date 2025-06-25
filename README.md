@@ -5,7 +5,7 @@
 ###
 
 -  a **19-year-old** software engineering individual
--  currently pursuing a BSc degree at **kazakh-british technical university**
+-  currently pursuing an associate's degree of computer software engineering at **APEC PetroTechnic**
 -  reach me out at **s.mecheyev@outlook.com**, or [Telegram](https://t.me/mecheyev)
 
 ###
