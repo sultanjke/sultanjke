@@ -1,4 +1,4 @@
-
+**stack**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=flat)
 ![NextJS](https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white&style=flat)
@@ -16,8 +16,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sultanjke.sultanjke" />
-</div>
+**contact me**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](t.me/mecheyev)
