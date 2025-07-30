@@ -5,7 +5,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/python-%2314354c.svg?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![.Net](https://img.shields.io/badge/.net-5C2D91?style=flat&logo=.net&logoColor=white)
 ![cs](https://custom-icon-badges.demolab.com/badge/cs-%23239120.svg?logo=cshrp&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
