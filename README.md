@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-%2314354c.svg?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![cpp](https://img.shields.io/badge/cpp-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![cs](https://custom-icon-badges.demolab.com/badge/cs-%23239120.svg?logo=cshrp&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361dafb&style=flat)
 ![NextJS](https://img.shields.io/badge/next.js-%23000000.svg?logo=next.js&logoColor=white&style=flat)
