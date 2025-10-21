@@ -22,5 +22,5 @@
 **contact me**
 
 <a href="https://t.me/mecheyev">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
 </a>
